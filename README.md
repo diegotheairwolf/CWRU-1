@@ -1,3 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/diegotheairwolf/CWRU-1/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/diegotheairwolf/CWRU-1/HEAD
+
 # CWRU Bearing Dataset
 ## Introduction
 This dataset is commonly used as benchmark for bearing fault classification algorithm 
